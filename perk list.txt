@@ -8,6 +8,10 @@ dimwishlist:item=1013434963&perks=1820235745,95528736
 dimwishlist:item=2349907931&perks=1820235745,124408337
 dimwishlist:item=2349907931&perks=1820235745,4104185692
 dimwishlist:item=2349907931&perks=1820235745,365154968
+//notes:洪亮摇篮曲：维持生计+高爆载荷；狭窄视野+杀戮弹匣；充盈+高爆载荷
+dimwishlist:item=3924212056&perks=1820235745,3038247973
+dimwishlist:item=3924212056&perks=2946784966,1015611457
+dimwishlist:item=3924212056&perks=3436462433,3038247973
 //notes:拨奏曲-22：永动不歇+测距仪；刺客野心+多杀弹匣；风暴之眼+测距仪
 dimwishlist:item=4100775158&perks=1428297954,2846385770
 dimwishlist:item=4100775158&perks=2010801679,2458213969
