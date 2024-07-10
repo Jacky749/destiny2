@@ -9,7 +9,7 @@ DIM github 使用说明: https://github.com/DestinyItemManager
 b站up夜松云教程：https://b23.tv/GhlM6fq
 
 
-在DIM设置-愿望清单-添加另一个愿望清单，将此链接https://raw.githubusercontent.com/Jacky749/destiny2/main/perk_list.txt复制到栏中，点击添加愿望清单即可。
+在DIM设置-愿望清单-添加另一个愿望清单，将此链接https://raw.githubusercontent.com/Jacky749/destiny2/main/perk_list.txt 复制到栏中，点击添加愿望清单即可。
 
 目前只收录了部分传说武器（即本人曾获取过的武器），异域武器没有进行整理。
 
