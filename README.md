@@ -1,4 +1,4 @@
-#Source files for wish lists for DIM (Destiny Item Manager).
+# Source files for wish lists for DIM (Destiny Item Manager).
 
 次火锅咯 DIM自制愿望清单
 
@@ -8,7 +8,8 @@ DIM github 使用说明: https://github.com/DestinyItemManager
 
 b站up夜松云教程：https://b23.tv/GhlM6fq
 
-简易教程：在DIM设置-愿望清单-添加另一个愿望清单，将此链接https://raw.githubusercontent.com/Jacky749/destiny2/main/perk_list.txt 复制到栏中，点击添加愿望清单即可。
+## 简易教程：
+在DIM设置-愿望清单-添加另一个愿望清单，将此链接https://raw.githubusercontent.com/Jacky749/destiny2/main/perk_list.txt 复制到栏中，点击添加愿望清单即可。
 
 添加完成后，需要刷新网页愿望清单才能生效，然后就可以在背包中查看武器有没有大拇指了！
 
@@ -21,7 +22,7 @@ perk组合的选取基于DIM中该武器链接的light.gg的perk组合使用率�
 
 最后，因为本人游玩时间还不够长，获取的武器有限，所以该愿望清单还处于一个持续更新的状态。对于没有大拇指的武器不一定要分解，可能是此愿望清单中没有更新该武器的perk推荐。但是有大拇指的武器最好留下，特别是当同种武器中出现了有的有大拇指，有的没有时，可以把没有的先分掉。
 
-更新记录会在此文档中更新，如果DIM愿望清单更新时间早于更新日志，可以将原愿望清单删除后替换新链接上传。注意：由于DIM设置问题，不能实时更新，必须将原愿望清单删除后才可替换。
+## 更新记录会在此文档中更新，如果DIM愿望清单更新时间早于更新日志，可以将原愿望清单删除后替换新链接上传。注意：由于DIM设置问题，不能实时更新，必须将原愿望清单删除后才可替换。
 
 ![image](https://github.com/Jacky749/destiny2/assets/79360737/8da02af2-dbe1-4ef9-9b08-bbaf945551e4)
 
@@ -36,5 +37,5 @@ perk组合的选取基于DIM中该武器链接的light.gg的perk组合使用率�
 
 https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/voltron.txt 是48klocs大佬制作的愿望清单；
 
-##更新日志
+## 更新日志
 
