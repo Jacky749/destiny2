@@ -1,4 +1,4 @@
-# Source files for wish lists for DIM (Destiny Item Manager).
+# Destiny2 DIM 愿望清单
 
 次火锅咯 DIM自制愿望清单
 
