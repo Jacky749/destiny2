@@ -1,4 +1,4 @@
-Source files for wish lists for DIM (Destiny Item Manager).
+#Source files for wish lists for DIM (Destiny Item Manager).
 
 次火锅咯 DIM自制愿望清单
 
@@ -36,4 +36,5 @@ perk组合的选取基于DIM中该武器链接的light.gg的perk组合使用率�
 
 https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/voltron.txt 是48klocs大佬制作的愿望清单；
 
+##更新日志
 
