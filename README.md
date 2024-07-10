@@ -19,6 +19,8 @@ perk组合的选取基于DIM中该武器链接的light.gg的perk组合使用率�
 
 最后，因为本人游玩时间还不够长，获取的武器有限，所以该愿望清单还处于一个持续更新的状态。对于没有大拇指的武器不一定要分解，可能是此愿望清单中没有更新该武器的perk推荐。但是有大拇指的武器最好留下，特别的是同种武器中出现了有的有大拇指，有的没有时，可以把没有的先分掉。
 
+（在DIM中点击武器详情，如果最下面没有显示X个愿望清单组合，则表示该武器没有录入）
+
 另外，https://raw.githubusercontent.com/YeSongYun/DIM-wish-list-for-YeSongYun-for-Chinese/main/%E6%84%BF%E6%9C%9B%E5%8D%95.txt 是b站up夜松云制作的愿望清单；
 
 https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/voltron.txt 是48klocs大佬制作的愿望清单；
