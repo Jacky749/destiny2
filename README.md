@@ -1,6 +1,6 @@
 Source files for wish lists for DIM (Destiny Item Manager).
 
-DIM自制愿望清单
+次火锅咯#7592 DIM自制愿望清单
 
 DIM 网页: https://app.destinyitemmanager.com/
 
