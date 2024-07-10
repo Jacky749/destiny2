@@ -21,6 +21,10 @@ perk组合的选取基于DIM中该武器链接的light.gg的perk组合使用率�
 
 （在DIM中点击武器详情，如果最下面没有显示X个愿望清单组合，则表示该武器没有录入）
 
+![image](https://github.com/Jacky749/destiny2/assets/79360737/8089f9ae-1f66-404a-9c21-b0086a0c07bb)
+
+愿望清单组合从上到下依次为perk组合使用率第一二三，另有文字说明，可以多重检查一下。文字说明也是从左到右依次为第一二三位perk组合）
+
 另外，https://raw.githubusercontent.com/YeSongYun/DIM-wish-list-for-YeSongYun-for-Chinese/main/%E6%84%BF%E6%9C%9B%E5%8D%95.txt 是b站up夜松云制作的愿望清单；
 
 https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/voltron.txt 是48klocs大佬制作的愿望清单；
