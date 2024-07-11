@@ -182,7 +182,8 @@ dimwishlist:item=3184681056&perks=3161816588,47981717
 dimwishlist:item=1679868061&perks=1428297954,2450788523
 dimwishlist:item=1679868061&perks=1556840489,2679249093
 dimwishlist:item=1679868061&perks=3161816588,2679249093
-
+//notes:阿尔布鲁纳-D：使用率较低 可以分了
+dimwishlist:item=676270382&perks=12334443543
 
 //notes:克尔格拉斯的审判：丰盈满溢+紧逼近战
 dimwishlist:item=2978226043&perks=3643424744,1782407750
@@ -366,8 +367,10 @@ dimwishlist:item=871900124&perks=3161816588,2679249093
 dimwishlist:item=499245245&perks=4071163871,2173046394
 dimwishlist:item=499245245&perks=4071163871,2396489472
 dimwishlist:item=499245245&perks=3978468247,2396489472
-
-
+//notes:天钿RR4：事不过四+精准工具/斩首武器；小丑皇弹药桶+斩首武器
+dimwishlist:item=42874240&perks=1354429876,555281244
+dimwishlist:item=42874240&perks=1354429876,1546637391
+dimwishlist:item=42874240&perks=2284787283,1546637391
 //notes:噩兆：无倦利刃+腹背受敌
 dimwishlist:item=3794274730&perks=2590710093,3708227201
 //notes:拜龙教镰刀：切割+幼雏；爆破专家/不屈+连锁反应
