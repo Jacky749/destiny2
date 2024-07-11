@@ -38,4 +38,6 @@ perk组合的选取基于DIM中该武器链接的light.gg的perk组合使用率�
 https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/voltron.txt 是48klocs大佬制作的愿望清单；
 
 ## 更新日志
+### 2024.7.11
+更新了天钿RR4，阿尔布鲁纳-D，月面岩屑III
 
