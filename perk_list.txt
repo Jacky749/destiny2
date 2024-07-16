@@ -473,3 +473,15 @@ dimwishlist:item=1492522228&perks=3418782618,1771339417
 dimwishlist:item=3175851496&perks=3977735242,3927722942
 //notes:月面岩屑III：使用率较低 可以直接分了
 dimwishlist:item=1948035256&perks=1234315543
+//notes:迭代循环:强制装填/金中藏弹+伏特子弹；越战越勇+快速启动
+dimwishlist:item=1289796511&perks=671806388,2173046394
+dimwishlist:item=1289796511&perks=1556840489,2173046394
+dimwishlist:item=1289796511&perks=1645158859,1754714824
+//notes:天钿RR4（专家）:事不过四+精准工具；小丑皇弹药桶+斩首武器；失调协议+辉耀炽热
+dimwishlist:item=3610521673&perks=1354429876,555281244
+dimwishlist:item=3610521673&perks=2284787283,1546637391
+dimwishlist:item=3610521673&perks=3978468247,4293542123
+//notes:天钿RR4：事不过四+精准工具/辉耀炽热；速射瞄准+辉耀炽热
+dimwishlist:item=42874240&perks=1354429876,555281244,
+dimwishlist:item=42874240&perks=1354429876,4293542123
+dimwishlist:item=42874240&perks=957782887,555281244
