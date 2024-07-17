@@ -1,5 +1,7 @@
 title:命运2 DIM愿望单
 description:次火锅咯制作的DIM愿望单，选取了light.gg中第三第四位perk前三（如果有断层式第一第二则选定的更少！优先录入了一些次火锅咯经常获得，新获得的枪再随时补充：
+//notes:起源故事：可以直接分了
+dimwishlist:item=2826850739&perks=12345678
 //notes:判决：动态减摆/喂食狂热/维持生计+猛攻
 dimwishlist:item=1013434963&perks=1359896290,95528736
 dimwishlist:item=1013434963&perks=2779035018,95528736
@@ -485,3 +487,13 @@ dimwishlist:item=3610521673&perks=3978468247,4293542123
 dimwishlist:item=42874240&perks=1354429876,555281244,
 dimwishlist:item=42874240&perks=1354429876,4293542123
 dimwishlist:item=42874240&perks=957782887,555281244
+//notes:无人幸存：爆破专家+辉耀炽热
+dimwishlist:item=3262192268&perks=3523296417,4293542123
+//notes:光明前景：禅意时刻+失衡弹药；充盈+冲击支撑；禅意时刻+杀戮弹匣
+dimwishlist:item=491078457&perks=2387244414,2048641572
+dimwishlist:item=491078457&perks=3436462433,776531651
+dimwishlist:item=491078457&perks=2387244414,1015611457
+//notes:新太平洋碑文：爆破专家+肾上腺素成瘾/转向；金中藏弹+转向
+dimwishlist:item=1125217994&perks=3523296417,11612903
+dimwishlist:item=1125217994&perks=3523296417,3201496230
+dimwishlist:item=1125217994&perks=1556840489,3201496230
