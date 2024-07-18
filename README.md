@@ -24,7 +24,8 @@ perk组合的选取基于DIM中该武器链接的light.gg的perk组合使用率�
 
 ## 更新记录会在此文档中更新，如果DIM愿望清单更新时间早于更新日志，可以将原愿望清单删除后替换新链接上传。注意：由于DIM设置问题，不能实时更新，必须将原愿望清单删除后才可替换。
 
-![image](https://github.com/Jacky749/destiny2/assets/79360737/8da02af2-dbe1-4ef9-9b08-bbaf945551e4)
+![image](https://github.com/user-attachments/assets/3b1f15dd-8425-4f43-b819-e196c148c308)
+
 
 
 （在DIM中点击武器详情，如果最下面没有显示X个愿望清单组合，则表示该武器没有录入）
@@ -38,6 +39,8 @@ perk组合的选取基于DIM中该武器链接的light.gg的perk组合使用率�
 https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/voltron.txt 是48klocs大佬制作的愿望清单；
 
 ## 更新日志
+### 2024.7.18
+更新了告别，反常行动，新太平洋碑文等
 ### 2024.7.11
 更新了天钿RR4，阿尔布鲁纳-D，月面岩屑III
 
