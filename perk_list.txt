@@ -537,6 +537,10 @@ dimwishlist:item=2187717691&perks=2779035018,365154968
 dimwishlist:item=1332123064&perks=968510818,4293542123
 dimwishlist:item=1332123064&perks=960810156,4293542123
 dimwishlist:item=1332123064&perks=1523832109,1546637391
+//notes:狂野风格专家：嫉妒刺客/危险区域+辉耀炽热；重建+斩首武器
+dimwishlist:item=959037361&perks=968510818,4293542123
+dimwishlist:item=959037361&perks=960810156,4293542123
+dimwishlist:item=959037361&perks=1523832109,1546637391
 //notes:信任：速射瞄准/不法之徒+高爆载荷；快速命中+辉耀炽热
 dimwishlist:item=2850664015&perks=957782887,3038247973
 dimwishlist:item=2850664015&perks=1168162263,3038247973
@@ -545,6 +549,10 @@ dimwishlist:item=2850664015&perks=247725512,4293542123
 dimwishlist:item=1911060537&perks=3400784728,1771339417
 //notes:萨凡化身V 直接分
 dimwishlist:item=1975125963&perks=1911060537
-//notes:
-//notes:
+//notes:固定低音：盗墓者/嫉妒刺客+雪上加霜；金中藏弹+失衡弹药
+dimwishlist:item=2573900604&perks=968510818,2679249093
+dimwishlist:item=2573900604&perks=1631667848,2679249093
+dimwishlist:item=2573900604&perks=1556840489,2048641572
+//notes:改型冒险：事不过四+目标锁定
+dimwishlist:item=3103325054&perks=1354429876,365154968
 //notes:
