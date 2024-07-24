@@ -573,7 +573,10 @@ dimwishlist:item=3937866388&perks=4267945040,3708227201
 dimwishlist:item=1150492185&perks=247725512,1546637391
 dimwishlist:item=1150492185&perks=957782887,2173046394
 dimwishlist:item=1150492185&perks=247725512,1771339417
-//notes:
+//notes:切尔奇斯的末日：萤火虫+蜻蜓；高爆载荷+狂乱/蜻蜓
+dimwishlist:item=1937552980&perks=3824105627,2848615171
+dimwishlist:item=1937552980&perks=3038247973,4104185692
+dimwishlist:item=1937552980&perks=3038247973,2848615171
 //notes:
 //notes:
 //notes:
