@@ -605,7 +605,8 @@ dimwishlist:item=2194955522&perks=706527188,4293542123
 dimwishlist:item=297296830&perks=1354429876,2848615171
 dimwishlist:item=297296830&perks=3096702027,1048183818
 dimwishlist:item=297296830&perks=3096702027,2848615171
-//notes:
+//notes:典狱长的规则（专家):事不过四+斩首
+dimwishlist:item=3250744600&perks=1354429876,1546637391
 //notes:
 //notes:
 //notes:
