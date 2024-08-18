@@ -620,10 +620,8 @@ dimwishlist:item=2372514508&perks=3891536761,4049631843
 //notes:锤头：狂暴+击杀记录/猛攻；
 dimwishlist:item=1896309757&perks=3425386926,557221067
 dimwishlist:item=1896309757&perks=3425386926,95528736
-//notes:继承：重建+斩首/重组/火线
-dimwishlist:item=3612338554&perks=1523832109,1546637391
-dimwishlist:item=3612338554&perks=1523832109,469285294
-dimwishlist:item=3612338554&perks=1523832109,1771339417
+//notes:继承：重建+斩首
+dimwishlist:item=2990047042&perks=1523832109,1546637391
 //notes:陨落铡刀:狂乱/斩首/连锁反应+急切刀锋
 dimwishlist:item=1815105249&perks=4104185692,2077819806
 dimwishlist:item=1815105249&perks=1546637391,2077819806
