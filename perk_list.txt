@@ -611,8 +611,9 @@ dimwishlist:item=3250744600&perks=1354429876,1546637391
 dimwishlist:item=4106757302&perks=1523832109,1439600632
 //notes:城主IV（专家）：弓手节奏+辉耀炽热
 dimwishlist:item=2063217087&perks=201365942,4293542123
-//notes:完美悖论：沙场备战+战壕炮管
+//notes:完美悖论：沙场备战+战壕炮管/雪上加霜
 dimwishlist:item=1298672084&perks=2869569095,2360754333
+dimwishlist:item=1298672084&perks=2869569095,2679249093
 //notes:高炉：动能震颤+萤火虫/我为人人
 dimwishlist:item=2372514508&perks=3891536761,3824105627
 dimwishlist:item=2372514508&perks=3891536761,4049631843
@@ -638,8 +639,10 @@ dimwishlist:item=568611921&perks=2010801679,2396489472
 dimwishlist:item=1050806815&perks=776531651,2048641572
 //notes:艾尔西的步枪：禅意时刻+死亡寻觅者
 dimwishlist:item=2372514509&perks=2387244414,460017080
-//notes:
-//notes:
+//notes:汇流愿景：回转+萤火虫
+dimwishlist:item=3186018373&perks=3418782618,3824105627
+//notes:命运终结者：高爆载荷+萤火虫
+dimwishlist:item=2171478765&perks=3038247973,3824105627
 //notes:
 //notes:
 //notes:
