@@ -642,7 +642,8 @@ dimwishlist:item=2372514509&perks=2387244414,460017080
 dimwishlist:item=3186018373&perks=3418782618,3824105627
 //notes:命运终结者：高爆载荷+萤火虫
 dimwishlist:item=2171478765&perks=3038247973,3824105627
-//notes:
+//notes:虚假偶像：辉耀炽热+连锁反应
+dimwishlist:item=4207120603&perks=4293542123,598607952
 //notes:
 //notes:
 //notes:
