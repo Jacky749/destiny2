@@ -429,7 +429,7 @@ dimwishlist:item=4146702548&perks=3300816228,3425386926
 dimwishlist:item=4146702548&perks=957782887,3425386926
 //notes:维度内旋轮线：嫉妒刺客+连锁反应
 dimwishlist:item=1311684613&perks=968510818,2396489472
-//notes:边缘交通：嫉妒刺客+诱导推销
+//notes:边缘交通：嫉妒刺客/自动装填/级联点+诱导推销
 dimwishlist:item=568611923&perks=968510818,3078487919
 dimwishlist:item=568611923&perks=3300816228,3078487919
 //notes:马斯利翁：速射瞄准+脉冲增幅器
