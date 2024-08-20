@@ -263,10 +263,9 @@ dimwishlist:item=4019668921&perks=3700496672,3038247973
 dimwishlist:item=1058098236&perks=25606670,555281244
 //notes:严苛言语：嫉妒刺客+失衡弹药
 dimwishlist:item=1606497639&perks=968510818,2048641572
-//notes:暗流涌动：金中藏弹/爆破专家/沙场备战+伏特子弹
+//notes:暗流涌动：金中藏弹+伏特子弹
 dimwishlist:item=3686538757&perks=1556840489,2173046394
-dimwishlist:item=3686538757&perks=3523296417,2173046394
-dimwishlist:item=3686538757&perks=2869569095,2173046394
+dimwishlist:item=817909300&perks=1556840489,2173046394
 //notes:加卢RR3：丰盈满溢/心无旁骛+速射瞄准；丰盈满溢+蜻蜓
 dimwishlist:item=617501162&perks=3643424744,957782887
 dimwishlist:item=617501162&perks=2866798147,957782887
