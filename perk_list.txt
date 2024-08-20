@@ -646,7 +646,8 @@ dimwishlist:item=3186018373&perks=3418782618,3824105627
 dimwishlist:item=2171478765&perks=3038247973,3824105627
 //notes:虚假偶像：辉耀炽热+连锁反应
 dimwishlist:item=4207120603&perks=4293542123,598607952
-//notes:
+//notes:灾变：事不过四+诱导推销
+dimwishlist:item=999767358&perks=1354429876,3078487919
 //notes:
 //notes:
 //notes:
