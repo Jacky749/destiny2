@@ -131,10 +131,10 @@ dimwishlist:item=568611922&perks=3300816228,1546637391
 //notes:赦免尘埃：自动填装枪套+斩首武器/爆破专家
 dimwishlist:item=3849810018&perks=3300816228,1546637391
 dimwishlist:item=3849810018&perks=3300816228,3523296417
-//notes:迷失信号：光速拔枪+不屈;自动填装枪套+爆破专家/混响
-dimwishlist:item=1197771438&perks=706527188,3108830275
+//notes:迷失信号：自动填装枪套+爆破专家/斩首/我为人人
 dimwishlist:item=1197771438&perks=3300816228,3523296417
-dimwishlist:item=1197771438&perks=3300816228,563069569
+dimwishlist:item=1197771438&perks=3300816228,1546637391
+dimwishlist:item=1197771438&perks=3300816228,4049631843
 //notes:伊鲁康吉：事不过四+火线
 dimwishlist:item=2673925403&perks=1354429876,1771339417
 //notes:反复记号：精准连击+高爆载荷/火线；嫉妒刺客+火线
