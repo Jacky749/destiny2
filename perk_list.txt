@@ -463,10 +463,8 @@ dimwishlist:item=1719687748&perks=1523832109,1439600632
 dimwishlist:item=3615421669&perks=968510818,1771339417
 dimwishlist:item=3615421669&perks=968510818,555281244
 dimwishlist:item=3615421669&perks=124408337,2978966579
-//notes:沙之界线：爆破专家+洪涝；小丑皇弹药桶+诱导推销；移动目标+强力首发
-dimwishlist:item=2450049485&perks=3523296417,1427256713
+//notes:沙之界线：小丑皇弹药桶/快速命中+诱导推销
 dimwishlist:item=2450049485&perks=2284787283,3078487919
-dimwishlist:item=2450049485&perks=588594999,47981717
 //notes:激光画家：小丑皇弹药桶/自动填装枪套+斩首武器
 dimwishlist:item=3221722018&perks=2284787283,1546637391
 dimwishlist:item=3221722018&perks=3300816228,1546637391
