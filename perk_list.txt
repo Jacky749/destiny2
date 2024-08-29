@@ -650,7 +650,8 @@ dimwishlist:item=4207120603&perks=4293542123,598607952
 dimwishlist:item=999767358&perks=1354429876,3078487919
 //notes:光芒复仇：自动装填+爆破专家
 dimwishlist:item=4050645223&perks=3300816228,3523296417
-//notes:
+//notes:洞穴学者：嫉妒刺客+目标锁定
+dimwishlist:item=412251536&perks=968510818,365154968
 //notes:
 
 
