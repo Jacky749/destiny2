@@ -434,8 +434,9 @@ dimwishlist:item=568611923&perks=968510818,3078487919
 dimwishlist:item=568611923&perks=3300816228,3078487919
 dimwishlist:item=568611923&perks=3751912585,3078487919
 dimwishlist:item=568611923&perks=968510818,3194351027
-//notes:马斯利翁：速射瞄准+脉冲增幅器
-dimwishlist:item=867154247&perks=957782887,951095735
+//notes:马斯利翁：嫉妒刺客+辉耀炽热/爆炸光能
+dimwishlist:item=867154247&perks=968510818,4293542123
+dimwishlist:item=867154247&perks=968510818,3194351027
 //notes:低温重炮：刺客野心+集束炸弹/连锁反应；光速拔枪+集束炸弹
 dimwishlist:item=42351395&perks=2010801679,1275731761
 dimwishlist:item=42351395&perks=2010801679,2396489472
