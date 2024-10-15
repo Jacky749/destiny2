@@ -690,5 +690,21 @@ dimwishlist:item=859869931&perks=3824105627,4293542123
 dimwishlist:item=859869931&perks=3017780555,4293542123
 //notes:渎神者：光速拔枪+强力首发
 dimwishlist:item=2782847179&perks=706527188,47981717
+//notes:礼拜：迷失手雷+滑行健射/霜华窃取者+冰冷弹匣
+dimwishlist:item=2599338624&perks=3032599245,2039302152,2978966579
+dimwishlist:item=2599338624&perks=3032599245,1955165503,2978966579
+//notes:苦乐参半：嫉妒军械库+诱导推销
+dimwishlist:item=2599338625&perks=3987942396,3078487919
+//notes:永恒边缘：能量转换+ 腹背受敌
+dimwishlist:item=2782325301&perks=2030760728,3708227201
 //notes:
-
+//notes:
+//notes:
+//notes:
+//notes:
+//notes:
+//notes:
+//notes:
+//notes:
+//notes:
+//notes:
